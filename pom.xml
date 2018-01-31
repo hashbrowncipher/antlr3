@@ -145,8 +145,8 @@
                             <execution>
                                 <id>default-compile</id>
                                 <configuration>
-                                    <source>1.5</source>
-                                    <target>1.5</target>
+                                    <source>1.8</source>
+                                    <target>1.8</target>
                                     <compilerArgs>
                                         <arg>-Xlint</arg>
                                         <arg>-Xlint:-serial</arg>
@@ -235,8 +235,8 @@
                     <execution>
                         <id>default-compile</id>
                         <configuration>
-                            <source>1.5</source>
-                            <target>1.5</target>
+                            <source>1.8</source>
+                            <target>1.8</target>
                         </configuration>
                     </execution>
                     <execution>
